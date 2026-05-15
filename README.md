@@ -110,9 +110,9 @@ Implementation of multiplexers, counters, FSMs, and ALUs.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/aditya-paswan-020095358/
+- GitHub: https://github.com/Adiuc
+- Email: adityapaswan174@gmail.com
 
 ---
 
@@ -121,75 +121,3 @@ Implementation of multiplexers, counters, FSMs, and ALUs.
 I love combining hardware and software to solve real-world problems, and I'm constantly exploring new technologies in electronics, cybersecurity, and automation.
 
 ```
-
----
-
-# What You Need to Replace
-
-Before using the README, replace these placeholders:
-
-* `YOUR_USERNAME` → your GitHub username
-* `YOUR_LINKEDIN_USERNAME` → your LinkedIn profile username
-* `your.email@example.com` → your email address
-
----
-
-# Suggested Repository Structure
-
-```text
-AdityaPaswan/
-├── README.md
-├── assets/
-│   └── profile-banner.png
-└── .github/
-    └── workflows/
-        └── update-stats.yml
-```
-
----
-
-# Recommended Projects to Upload
-
-If your GitHub profile is mostly empty, start with these repositories:
-
-1. `verilog-digital-designs`
-2. `iot-projects`
-3. `python-automation-scripts`
-4. `cybersecurity-labs`
-5. `embedded-c-programs`
-
-An impressive README does not compensate for an empty GitHub profile. Recruiters care more about actual repositories than profile decorations.
-
----
-
-# Strong Repository Ideas for Your Career Goals
-
-## VLSI
-
-* 4-bit ALU in Verilog
-* Traffic Light Controller FSM
-* UART Transmitter/Receiver
-* RISC-V Single Cycle Processor
-
-## Cybersecurity
-
-* Port Scanner in Python
-* Packet Sniffer
-* Password Strength Checker
-* Vulnerability Assessment Notes
-
-## IoT
-
-* Smart Home Automation
-* Weather Station
-* Soil Moisture Monitoring
-* RFID Attendance System
-
-## Embedded Systems
-
-* Sensor Interfacing with Arduino
-* Stepper Motor Control
-* LCD and Keypad Interface
-
----
-
